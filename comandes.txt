@@ -1,0 +1,7 @@
+mkdir Alumne
+nano alumne.txt
+cd ..
+
+mkdir Notes
+nano alumne.txt
+cd..
