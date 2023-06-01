@@ -5,3 +5,8 @@ cd ..
 mkdir Notes
 nano alumne.txt
 cd..
+
+git add .
+git commit -m "Examen"
+git remote add origin https://github.com/XaviMonti/preExamen.git
+git push origin main
