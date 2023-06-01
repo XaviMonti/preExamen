@@ -35,3 +35,8 @@ nano LICENSE.txt
 git add .
 git commit -m "Add License"
 git push origin main 
+
+nano .gitignore
+git add .
+git commit -m "addIgnore"
+git push origin main
