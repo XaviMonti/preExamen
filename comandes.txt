@@ -31,3 +31,7 @@ git commit -m "Noves Notes"
 git remote add origin https://github.com/XaviMonti/preExamen.git
 git push origin main 
 
+nano LICENSE.txt
+git add .
+git commit -m "Add License"
+git push origin main 
