@@ -10,3 +10,24 @@ git add .
 git commit -m "Examen"
 git remote add origin https://github.com/XaviMonti/preExamen.git
 git push origin main
+
+cd Alumnes
+rm alumnes.txt
+nano TEUNOM.txt
+nano llorca.txt
+nano blai.txt
+
+
+cd Notes
+rm alumnes.txt
+nano TEUNOTA.txt
+nano bernat.txt
+nano uri.txt
+
+cd ..
+
+git add .
+git commit -m "Noves Notes"
+git remote add origin https://github.com/XaviMonti/preExamen.git
+git push origin main 
+
