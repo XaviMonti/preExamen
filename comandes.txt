@@ -46,3 +46,13 @@ git push origin DAM2
 
 git checkout -a
 git checkout DAM2
+
+cd .. 
+mkdir ProjectesDAM2
+cd ProjectesDam2
+nano damagotchi.txt
+nano fullbrain.txt
+nano chance.txt
+git add .
+git commit -m "addProjectes"
+git push origin main
