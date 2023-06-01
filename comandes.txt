@@ -40,3 +40,9 @@ nano .gitignore
 git add .
 git commit -m "addIgnore"
 git push origin main
+
+git branch DAM2
+git push origin DAM2
+
+git checkout -a
+git checkout DAM2
