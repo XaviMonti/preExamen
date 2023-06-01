@@ -56,3 +56,16 @@ nano chance.txt
 git add .
 git commit -m "addProjectes"
 git push origin main
+
+git checkout DAM2 
+mkdir FirstMerge
+nano firstmerge.txt
+nano secondmerge.txt
+git add .
+git commit -m "ww"
+git push origin DAM2
+
+git checkout main
+git merge DAM2 
+git push origin main
+a
